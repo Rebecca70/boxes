@@ -1,11 +1,21 @@
 .box1 {
+  background-color: grey;
+  width: auto;
+  height: auto;
 
 }
 
 .box2 {
+  background-color: orange;
+  width: 50%;
+  height: 50%;
+
 
 }
 
 .box3 {
+  background-color: yellow;
+  width: 50%;
+  height: 50%;
 
 }
